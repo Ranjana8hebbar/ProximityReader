@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ProximityDemo</string>
+    <string name="proximity">ProximityState</string>
+</resources>
